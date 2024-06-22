@@ -1,0 +1,18 @@
+Student Name: Olorunfemi Ogunbanwo
+What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development. 
+Answer: GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management functionality f git as well as adding its own features. It is a website that hosts git repositories on a remote server
+What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it. 
+Answer: A Git repository is a storage location where our project files and the entire history of their changes are tracked
+Creating a new repository involve creating a GitHub account, then inside the GitHub account, a repository will be created.
+Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers? 
+Answer: Version control will track and save all the changes to our code base, it will allow collaboration with other developers
+What are branches in GitHub, and why are they important? Describe the process of creating a branch, making changes, and merging it back into the main branch. 
+Answer: Branching allow developers to collaborate on a project and later combine their work. Individual developers will be on different branches when the project is complete, then the developers will merge the branches
+What is a pull request in GitHub, and how does it facilitate code reviews and collaboration? Outline the steps to create and review a pull request. 
+Answer: A pull request is transferring a file from the online GitHub repository to our local machine. To make a pull request, sign in to GitHub account, open the desired project inside the vscode terminal, and use git pull command to pull the repository, 
+What is Visual Studio, and what are its key features? How does it differ from Visual Studio Code?
+Answer: Visual Studio is a powerful IDE suited for large-scale and enterprise-level development, offering a comprehensive set of tools and features, while Visual Studio Code is a lightweight, fast, and highly customizable code editor suitable for a wide range of development tasks
+Describe the steps to integrate a GitHub repository with Visual Studio. How does this integration enhance the development workflow? 
+Answer: Visual studio installation, sign in to GitHub, cone the GitHub repository, create a new project and connect to GitHub then lastly publish to GitHub.
+Explain the debugging tools available in Visual Studio. How can developers use these tools to identify and fix issues in their code?
+Answers: debugging tools, are used by developers to efficiently diagnose and resolve errors, leading to more robust and reliable applications
